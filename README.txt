@@ -23,3 +23,8 @@ BLAH BLAH BLAH
 
 Load the training data into Orange3 and perform EDA there.
 
+We pull up the boxplot and let Orange3 group by relevance.
+Women had a higher percentage of survival than men.
+Lets plot a distribution to figure out the frequency of this.
+At the same time lets get a count of women to men.
+
