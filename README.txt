@@ -17,3 +17,9 @@ PassengerId,Survived
  893,1
  894,0
  Etc.
+
+
+BLAH BLAH BLAH
+
+Load the training data into Orange3 and perform EDA there.
+
